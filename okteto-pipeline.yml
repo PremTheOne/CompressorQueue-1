@@ -1,0 +1,3 @@
+icon: https://telegra.ph/file/fa600f8079ffec2713836.jpg
+deploy:
+    - okteto stack deploy --build -f okteto-stack.yml
